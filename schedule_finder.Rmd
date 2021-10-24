@@ -1,0 +1,35 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(readr)
+library(tidygeocoder)
+library(dplyr)
+```
+
+
+```{r}
+nfl_df<-data.frame(read_csv("nfl_games.csv"))
+cfb_df<- data.frame(read_csv("cfb_games.csv"))
+```
+
+```{r}
+nfl_df_2<-nfl_df[,c("game_id","season","gameday","gametime","away_team","home_team","roof","stadium")]
+nfl_df_2<-nfl_df_2[nfl_df_2$gameday>Sys.Date(),]
+
+cfb_df$date_clean<-as.Date(substr(cfb_df$date,5,length(cfb_df$date)),format="%b %d")
+
+colnames(nfl_df_2)<-paste0("nfl_",colnames(nfl_df_2))
+colnames(cfb_df)<-paste0("cfb_",colnames(cfb_df))
+```
+
+```{r}
+merge_df<-merge(cfb_df,nfl_df_2,all=TRUE)
+merge_df$date_gap<-abs(merge_df$cfb_date_clean-merge_df$nfl_gameday)
+
+merge_df_2<-merge_df[merge_df$date_gap<2,]
+
+```
+
