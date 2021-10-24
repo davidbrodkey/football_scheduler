@@ -7,6 +7,7 @@ output: html_notebook
 library(readr)
 library(tidygeocoder)
 library(dplyr)
+library(geosphere)
 ```
 
 
@@ -34,7 +35,7 @@ merge_df_2<-merge_df[merge_df$date_gap<2,]
 ```
 
 ```{r}
-location_df<-data.frame(c(unique(merge_df_2$cfb_location),unique(merge_df_2$nfl_stadium)))
+location_df<-data.frame(unique(c(unique(merge_df_2$cfb_location),unique(merge_df_2$nfl_stadium))))
 colnames(location_df)<-"stadium"
 
 location_df<-location_df %>% geocode(stadium) 
@@ -51,5 +52,17 @@ full_loc_df$lat<-coalesce(full_loc_df$manual_lat,full_loc_df$auto_lat)
 full_loc_df$long<-coalesce(full_loc_df$manual_long,full_loc_df$auto_long)
 
 full_loc_df<-full_loc_df[,c("stadium","lat","long")]
+```
+
+```{r}
+df_3<-merge_df_2
+nfl_loc_df<-full_loc_df
+colnames(nfl_loc_df)<-paste0("nfl_",colnames(nfl_loc_df))
+
+cfb_loc_df<-full_loc_df
+colnames(cfb_loc_df)<-paste0("cfb_",colnames(cfb_loc_df))
+
+df_4<-merge(df_3,nfl_loc_df,by.x="nfl_stadium",by.y="nfl_stadium",all.x=TRUE)
+df_5<-merge(df_4,cfb_loc_df,by.x="cfb_location",by.y="cfb_stadium",all.x=TRUE)
 ```
 
