@@ -33,3 +33,23 @@ merge_df_2<-merge_df[merge_df$date_gap<2,]
 
 ```
 
+```{r}
+location_df<-data.frame(c(unique(merge_df_2$cfb_location),unique(merge_df_2$nfl_stadium)))
+colnames(location_df)<-"stadium"
+
+location_df<-location_df %>% geocode(stadium) 
+
+write.csv(location_df,"location_df.csv",row.names = FALSE)
+
+location_override_df<-data.frame(read_csv("location_df_override_V01.csv"))
+
+colnames(location_override_df)<-c("stadium","manual_lat","manual_long")
+colnames(location_df)<-c("stadium","auto_lat","auto_long")
+
+full_loc_df<-merge(location_df,location_override_df,by.x="stadium",by.y="stadium",all.x=TRUE)
+full_loc_df$lat<-coalesce(full_loc_df$manual_lat,full_loc_df$auto_lat)
+full_loc_df$long<-coalesce(full_loc_df$manual_long,full_loc_df$auto_long)
+
+full_loc_df<-full_loc_df[,c("stadium","lat","long")]
+```
+
