@@ -1,0 +1,840 @@
+week,date,time,visitor,home,location
+1,Sat Aug 28,12:00 PM,TX El Paso,N Mex State,Aggie Memorial Stadium
+1,Sat Aug 28,12:00 PM,Connecticut,Fresno St,Bulldog Stadium
+1,Sat Aug 28,12:00 PM,S Utah,San Jose St,CEFCU Stadium
+1,Sat Aug 28,1:00 PM,Nebraska,Illinois,Memorial Stadium
+1,Sat Aug 28,3:30 PM,Hawaii,UCLA,Rose Bowl
+1,Wed Sep 1,7:30 PM,UAB,Jacksonville State,Cramton Bowl
+1,Thu Sep 2,12:00 PM,E Washingtn,UNLV,Allegiant Stadium
+1,Thu Sep 2,12:00 PM,Weber State,Utah,Rice-Eccles Stadium
+1,Thu Sep 2,6:30 PM,Temple,Rutgers,SHI Stadium
+1,Thu Sep 2,7:00 PM,The Citadel,Coastal Car,Brooks Stadium
+1,Thu Sep 2,7:00 PM,Wagner,Buffalo,UB Stadium
+1,Thu Sep 2,7:00 PM,W Illinois,Ball State,Scheumann Stadium
+1,Thu Sep 2,7:00 PM,Boise State,Central FL,Bounce House
+1,Thu Sep 2,7:00 PM,LIU,Florida Intl,Riccardo Silva Stadium
+1,Thu Sep 2,7:00 PM,Houston Baptist,New Mexico,Dreamstyle Stadium
+1,Thu Sep 2,7:30 PM,S Florida,NC State,Carter-Finley Stadium
+1,Thu Sep 2,7:30 PM,UC Davis,Tulsa,Skelly Field at H.A. Chapman Stadium
+1,Thu Sep 2,7:30 PM,E Carolina,App State,Bank of America Stadium
+1,Thu Sep 2,8:00 PM,Ohio State,Minnesota,TCF Bank Stadium
+1,Thu Sep 2,8:00 PM,TN Martin,W Kentucky,Houchens Industries-L.T. Smith Stadium
+1,Thu Sep 2,8:00 PM,Bowling Grn,Tennessee,Neyland Stadium
+1,Thu Sep 2,10:30 PM,S Utah,Arizona St,Sun Devil Stadium
+1,Fri Sep 3,6:00 PM,N Carolina,VA Tech,Lane Stadium
+1,Fri Sep 3,7:00 PM,St. Francis,E Michigan,Rynearson Stadium
+1,Fri Sep 3,7:00 PM,Old Dominion,Wake Forest,Truist Field
+1,Fri Sep 3,7:00 PM,Duke,Charlotte,Jerry Richardson Stadium
+1,Fri Sep 3,8:00 PM,South Dakota,Kansas,David Booth Kansas Memorial Stadium
+1,Fri Sep 3,9:00 PM,Michigan St,Northwestern,Ryan Field
+1,Fri Sep 3,9:00 PM,N Colorado,Colorado,Folsom Field
+1,Fri Sep 3,9:00 PM,S Dakota St,Colorado St,Sonny Lubrick Field at Canvas Stadium
+1,Sat Sep 4,12:00 PM,Oklahoma,Tulane,Yulman Stadium
+1,Sat Sep 4,12:00 PM,Army,Georgia State,Center Parc Credit Union Stadium
+1,Sat Sep 4,12:00 PM,Fordham,Nebraska,Memorial Stadium
+1,Sat Sep 4,12:00 PM,Stanford,Kansas St,AT&T Stadium
+1,Sat Sep 4,12:00 PM,Holy Cross,Connecticut,Rentschler Field at Pratt & Whitney Stadium
+1,Sat Sep 4,12:00 PM,Penn State,Wisconsin,Camp Randall Stadium
+1,Sat Sep 4,12:00 PM,W Michigan,Michigan,Michigan Stadium
+1,Sat Sep 4,12:00 PM,Colgate,Boston Col,Alumni Stadium
+1,Sat Sep 4,12:00 PM,LA Monroe,Kentucky,Kroger Field
+1,Sat Sep 4,12:00 PM,Montana St,Wyoming,Jonah Field at War Memorial Stadium
+1,Sat Sep 4,2:00 PM,Lafayette,Air Force,Falcon Stadium
+1,Sat Sep 4,2:00 PM,Rice,Arkansas,Donald W. Reynolds Razorback Stadium
+1,Sat Sep 4,2:00 PM,Fresno St,Oregon,Autzen Stadium
+1,Sat Sep 4,3:30 PM,Miami (OH),Cincinnati,Nippert Stadium
+1,Sat Sep 4,3:30 PM,Alabama,Miami (FL),Mercedes-Benz Stadium
+1,Sat Sep 4,3:30 PM,N Iowa,Iowa State,Jack Trice Stadium
+1,Sat Sep 4,3:30 PM,W Virginia,Maryland,Capital One Field at Maryland Stadium
+1,Sat Sep 4,3:30 PM,Indiana,Iowa,Kinnick Stadium
+1,Sat Sep 4,3:30 PM,Marshall,Navy,Navy-Marine Corps Memorial Stadium
+1,Sat Sep 4,4:00 PM,LA Tech,Miss State,Davis Wade Stadium at Scott Field
+1,Sat Sep 4,4:00 PM,Central Mich,Missouri,Faurot Field at Memorial Stadium
+1,Sat Sep 4,4:00 PM,U Mass,Pittsburgh,Heinz Field
+1,Sat Sep 4,4:30 PM,LA Lafayette,Texas,Darrell K Royal-Texas Memorial Stadium
+1,Sat Sep 4,5:00 PM,San Jose St,USC,United Airlines Field at Los Angeles Memorial Coliseum
+1,Sat Sep 4,6:00 PM,Gard-Webb,GA Southern,Allen E. Paulson Stadium
+1,Sat Sep 4,6:00 PM,Campbell,Liberty,Williams Stadium
+1,Sat Sep 4,7:00 PM,Texas Tech,Houston,NRG Stadium
+1,Sat Sep 4,7:00 PM,Southern,Troy,Veterans Memorial Stadium
+1,Sat Sep 4,7:00 PM,Central Ark,Arkansas St,Centennial Bank Stadium
+1,Sat Sep 4,7:00 PM,Norfolk St,Toledo,Glass Bowl
+1,Sat Sep 4,7:00 PM,Abl Christian,S Methodist,Gerald J. Ford Stadium
+1,Sat Sep 4,7:00 PM,Nicholls St,Memphis,Liberty Bowl Memorial Stadium
+1,Sat Sep 4,7:00 PM,Baylor,Texas State,Bobcat Stadium
+1,Sat Sep 4,7:00 PM,Missouri St,Oklahoma St,Boone Pickens Stadium
+1,Sat Sep 4,7:00 PM,Oregon St,Purdue,Ross-Ade Stadium
+1,Sat Sep 4,7:00 PM,Syracuse,Ohio,Peden Stadium
+1,Sat Sep 4,7:00 PM,Monmouth,Middle Tenn,"Johnny ""Red"" Floyd Stadium"
+1,Sat Sep 4,7:00 PM,E Illinois,S Carolina,Williams-Brice Stadium
+1,Sat Sep 4,7:00 PM,Akron,Auburn,Jordan-Hare Stadium
+1,Sat Sep 4,7:30 PM,Wm & Mary,Virginia,Scott Stadium
+1,Sat Sep 4,7:30 PM,N Illinois,GA Tech,Bobby Dodd Stadium
+1,Sat Sep 4,7:30 PM,TX-San Ant,Illinois,Memorial Stadium
+1,Sat Sep 4,7:30 PM,NW State,North Texas,Apogee Stadium
+1,Sat Sep 4,7:30 PM,Georgia,Clemson,Bank of America Stadium
+1,Sat Sep 4,7:30 PM,Fla Atlantic,Florida,Ben Hill Griffin Stadium
+1,Sat Sep 4,8:00 PM,Montana,Washington,Alaska Airlines Field at Husky Stadium
+1,Sat Sep 4,8:00 PM,Duquesne,TX Christian,Amon G. Carter Stadium
+1,Sat Sep 4,8:00 PM,S Mississippi,S Alabama,Hancock Whitney Stadium
+1,Sat Sep 4,8:00 PM,East Tennessee State,Vanderbilt,Vanderbilt Stadium
+1,Sat Sep 4,8:00 PM,Kent State,Texas A&M,Kyle Field
+1,Sat Sep 4,8:30 PM,LSU,UCLA,Rose Bowl
+1,Sat Sep 4,9:00 PM,Beth-Cook,TX El Paso,Sun Bowl
+1,Sat Sep 4,10:30 PM,N Mex State,San Diego St,Dignity Health Sports Park
+1,Sat Sep 4,10:30 PM,BYU,Arizona,Allegiant Stadium
+1,Sat Sep 4,10:30 PM,Nevada,California,California Memorial Stadium
+1,Sat Sep 4,11:00 PM,Utah State,Wash State,Gesa Field
+1,Sat Sep 4,11:59 PM,Portland St,Hawaii,Clarence T.C. Ching Athletics Complex
+1,Sun Sep 5,7:30 PM,Notre Dame,Florida St,Doak Campbell Stadium
+1,Mon Sep 6,8:00 PM,Louisville,Mississippi,Mercedes-Benz Stadium
+2,Fri Sep 10,7:30 PM,Kansas,Coastal Car,Brooks Stadium
+2,Fri Sep 10,8:00 PM,North Carolina A&T,Duke,Wallace Wade Stadium
+2,Fri Sep 10,9:00 PM,North Dakota,Utah State,Merlin Olsen Field at Maverik Stadium
+2,Fri Sep 10,9:30 PM,TX El Paso,Boise State,Albertsons Stadium
+2,Sat Sep 11,11:00 AM,Illinois,Virginia,Scott Stadium
+2,Sat Sep 11,11:30 AM,VA Military,Kent State,Dix Stadium
+2,Sat Sep 11,11:30 AM,W Kentucky,Army,Michie Stadium
+2,Sat Sep 11,12:00 PM,Tulsa,Oklahoma St,Boone Pickens Stadium
+2,Sat Sep 11,12:00 PM,Oregon,Ohio State,Ohio Stadium
+2,Sat Sep 11,12:00 PM,Indiana St,Northwestern,Ryan Field
+2,Sat Sep 11,12:00 PM,Miami (OH),Minnesota,TCF Bank Stadium
+2,Sat Sep 11,12:00 PM,Youngstown State,Michigan St,Spartan Stadium
+2,Sat Sep 11,12:00 PM,Norfolk St,Wake Forest,Truist Field
+2,Sat Sep 11,12:00 PM,Kennesaw State,GA Tech,Bobby Dodd Stadium
+2,Sat Sep 11,12:00 PM,Pittsburgh,Tennessee,Neyland Stadium
+2,Sat Sep 11,12:00 PM,S Carolina,E Carolina,Dowdy-Ficklen Stadium
+2,Sat Sep 11,12:00 PM,Alabama St,Auburn,Jordan-Hare Stadium
+2,Sat Sep 11,1:00 PM,Idaho State,Nevada,Mackay Stadium
+2,Sat Sep 11,1:00 PM,Cal Poly,Fresno St,Bulldog Stadium
+2,Sat Sep 11,1:00 PM,N Mex State,New Mexico,Dreamstyle Stadium
+2,Sat Sep 11,1:00 PM,W Carolina,Oklahoma,Gaylord Family-Oklahoma Memorial Stadium
+2,Sat Sep 11,1:00 PM,Boston Col,U Mass,Warren McGuirk Alumni Stadium
+2,Sat Sep 11,1:00 PM,GA Southern,Fla Atlantic,FAU Stadium
+2,Sat Sep 11,1:00 PM,Florida,S Florida,Raymond James Stadium
+2,Sat Sep 11,1:30 PM,Wyoming,N Illinois,Huskie Stadium
+2,Sat Sep 11,2:00 PM,Middle Tenn,VA Tech,Lane Stadium
+2,Sat Sep 11,2:00 PM,Rutgers,Syracuse,Carrier Dome
+2,Sat Sep 11,2:00 PM,Duquesne,Ohio,Peden Stadium
+2,Sat Sep 11,2:30 PM,Toledo,Notre Dame,Notre Dame Stadium
+2,Sat Sep 11,3:00 PM,Robert Morris,Central Mich,Kelly/Shorts Stadium
+2,Sat Sep 11,3:00 PM,Purdue,Connecticut,Rentschler Field at Pratt & Whitney Stadium
+2,Sat Sep 11,3:30 PM,Air Force,Navy,Navy-Marine Corps Memorial Stadium
+2,Sat Sep 11,3:30 PM,Murray St,Cincinnati,Nippert Stadium
+2,Sat Sep 11,3:30 PM,Temple,Akron,InfoCision Stadium-Summa Field
+2,Sat Sep 11,3:30 PM,California,TX Christian,Amon G. Carter Stadium
+2,Sat Sep 11,3:30 PM,Ball State,Penn State,Beaver Stadium
+2,Sat Sep 11,3:30 PM,Buffalo,Nebraska,Memorial Stadium
+2,Sat Sep 11,3:30 PM,UAB,Georgia,Sanford Stadium
+2,Sat Sep 11,3:30 PM,Texas A&M,Colorado,Empower Field at Mile High
+2,Sat Sep 11,4:00 PM,S Alabama,Bowling Grn,Doyt L. Perry Stadium
+2,Sat Sep 11,4:00 PM,Mercer,Alabama,Bryant-Denny Stadium
+2,Sat Sep 11,4:30 PM,Iowa,Iowa State,Jack Trice Stadium
+2,Sat Sep 11,5:00 PM,S Car State,Clemson,Memorial Stadium
+2,Sat Sep 11,5:00 PM,LIU,W Virginia,Mountaineer Field at Milan Puskar Stadium
+2,Sat Sep 11,5:00 PM,Illinois State,W Michigan,Waldo Stadium
+2,Sat Sep 11,6:00 PM,Gard-Webb,Charlotte,Jerry Richardson Stadium
+2,Sat Sep 11,6:00 PM,Lamar,TX-San Ant,Alamodome
+2,Sat Sep 11,6:00 PM,Portland St,Wash State,Gesa Field
+2,Sat Sep 11,6:30 PM,Beth-Cook,Central FL,Bounce House
+2,Sat Sep 11,6:30 PM,Houston,Rice,Rice Stadium
+2,Sat Sep 11,6:30 PM,North Carolina Central,Marshall,Joan C. Edwards Stadium
+2,Sat Sep 11,7:00 PM,Nicholls St,LA Lafayette,Cajun Field
+2,Sat Sep 11,7:00 PM,Memphis,Arkansas St,Centennial Bank Stadium
+2,Sat Sep 11,7:00 PM,Morgan St,Tulane,Yulman Stadium
+2,Sat Sep 11,7:00 PM,Ste F Austin,Texas Tech,Jones AT&T Stadium
+2,Sat Sep 11,7:00 PM,S Illinois,Kansas St,Bill Snyder Family Football Stadium
+2,Sat Sep 11,7:00 PM,Texas Southern,Baylor,McLane Stadium
+2,Sat Sep 11,7:00 PM,Liberty,Troy,Veterans Memorial Stadium
+2,Sat Sep 11,7:00 PM,E Michigan,Wisconsin,Camp Randall Stadium
+2,Sat Sep 11,7:00 PM,App State,Miami (FL),Hard Rock Stadium
+2,Sat Sep 11,7:00 PM,E Kentucky,Louisville,Cardinal Stadium
+2,Sat Sep 11,7:00 PM,Texas,Arkansas,Donald W. Reynolds Razorback Stadium
+2,Sat Sep 11,7:00 PM,NC State,Miss State,Davis Wade Stadium at Scott Field
+2,Sat Sep 11,7:00 PM,Texas State,Florida Intl,Riccardo Silva Stadium
+2,Sat Sep 11,7:00 PM,SE Louisiana,LA Tech,Joe Aillet Stadium
+2,Sat Sep 11,7:00 PM,North Texas,S Methodist,Gerald J. Ford Stadium
+2,Sat Sep 11,7:00 PM,Hampton,Old Dominion,Kornblau Field at S.B. Ballard Stadium
+2,Sat Sep 11,7:00 PM,Grambling St,S Mississippi,M.M. Roberts Stadium
+2,Sat Sep 11,7:30 PM,Howard,Maryland,Capital One Field at Maryland Stadium
+2,Sat Sep 11,7:30 PM,Idaho,Indiana,Memorial Stadium
+2,Sat Sep 11,7:30 PM,Georgia State,N Carolina,Kenan Memorial Stadium
+2,Sat Sep 11,7:30 PM,Austin Peay,Mississippi,Vaught-Hemingway Stadium
+2,Sat Sep 11,7:30 PM,Missouri,Kentucky,Kroger Field
+2,Sat Sep 11,8:00 PM,Washington,Michigan,Michigan Stadium
+2,Sat Sep 11,8:00 PM,McNeese St,LSU,Tiger Stadium
+2,Sat Sep 11,8:00 PM,Jacksonville State,Florida St,Doak Campbell Stadium
+2,Sat Sep 11,10:00 PM,San Diego St,Arizona,Arizona Stadium
+2,Sat Sep 11,10:00 PM,Vanderbilt,Colorado St,Sonny Lubrick Field at Canvas Stadium
+2,Sat Sep 11,10:15 PM,Utah,BYU,LaVell Edwards Stadium
+2,Sat Sep 11,10:30 PM,Stanford,USC,United Airlines Field at Los Angeles Memorial Coliseum
+2,Sat Sep 11,10:30 PM,UNLV,Arizona St,Sun Devil Stadium
+2,Sat Sep 11,11:00 PM,Hawaii,Oregon St,Reser Stadium
+3,Thu Sep 16,8:00 PM,Ohio,LA Lafayette,Cajun Field
+3,Fri Sep 17,7:30 PM,Central FL,Louisville,Cardinal Stadium
+3,Fri Sep 17,9:00 PM,Maryland,Illinois,Memorial Stadium
+3,Sat Sep 18,12:00 PM,VA Tech,W Virginia,Mountaineer Field at Milan Puskar Stadium
+3,Sat Sep 18,12:00 PM,Cincinnati,Indiana,Memorial Stadium
+3,Sat Sep 18,12:00 PM,N Illinois,Michigan,Michigan Stadium
+3,Sat Sep 18,12:00 PM,Nebraska,Oklahoma,Gaylord Family-Oklahoma Memorial Stadium
+3,Sat Sep 18,12:00 PM,Connecticut,Army,Michie Stadium
+3,Sat Sep 18,12:00 PM,Coastal Car,Buffalo,UB Stadium
+3,Sat Sep 18,12:00 PM,Boston Col,Temple,Lincoln Financial Field
+3,Sat Sep 18,12:00 PM,Albany,Syracuse,Carrier Dome
+3,Sat Sep 18,12:00 PM,Chattanooga,Kentucky,Kroger Field
+3,Sat Sep 18,12:00 PM,SE Missouri,Missouri,Faurot Field at Memorial Stadium
+3,Sat Sep 18,12:00 PM,TN Tech,Tennessee,Neyland Stadium
+3,Sat Sep 18,12:00 PM,New Mexico,Texas A&M,Kyle Field
+3,Sat Sep 18,12:00 PM,Michigan St,Miami (FL),Hard Rock Stadium
+3,Sat Sep 18,12:00 PM,W Michigan,Pittsburgh,Heinz Field
+3,Sat Sep 18,1:00 PM,Minnesota,Colorado,Folsom Field
+3,Sat Sep 18,1:00 PM,S Car State,N Mex State,Aggie Memorial Stadium
+3,Sat Sep 18,1:00 PM,Ball State,Wyoming,Jonah Field at War Memorial Stadium
+3,Sat Sep 18,1:00 PM,E Michigan,U Mass,Warren McGuirk Alumni Stadium
+3,Sat Sep 18,1:00 PM,E Carolina,Marshall,Joan C. Edwards Stadium
+3,Sat Sep 18,1:00 PM,UAB,North Texas,Apogee Stadium
+3,Sat Sep 18,2:05 PM,Nevada,Kansas St,Bill Snyder Family Football Stadium
+3,Sat Sep 18,2:30 PM,Purdue,Notre Dame,Notre Dame Stadium
+3,Sat Sep 18,3:30 PM,LIU,Miami (OH),Fred C. Yager Stadium
+3,Sat Sep 18,3:30 PM,Bryant,Akron,InfoCision Stadium-Summa Field
+3,Sat Sep 18,3:30 PM,Elon,App State,Kidd Brewer Stadium
+3,Sat Sep 18,3:30 PM,Idaho,Oregon St,Reser Stadium
+3,Sat Sep 18,3:30 PM,USC,Wash State,Gesa Field
+3,Sat Sep 18,3:30 PM,Baylor,Kansas,David Booth Kansas Memorial Stadium
+3,Sat Sep 18,3:30 PM,Delaware,Rutgers,SHI Stadium
+3,Sat Sep 18,3:30 PM,Tulsa,Ohio State,Ohio Stadium
+3,Sat Sep 18,3:30 PM,Kent State,Iowa,Kinnick Stadium
+3,Sat Sep 18,3:30 PM,Florida St,Wake Forest,Truist Field
+3,Sat Sep 18,3:30 PM,GA Tech,Clemson,Memorial Stadium
+3,Sat Sep 18,3:30 PM,S Methodist,LA Tech,Joe Aillet Stadium
+3,Sat Sep 18,3:30 PM,Alabama,Florida,Ben Hill Griffin Stadium
+3,Sat Sep 18,4:00 PM,Sacramento State,California,California Memorial Stadium
+3,Sat Sep 18,4:00 PM,Colorado St,Toledo,Glass Bowl
+3,Sat Sep 18,4:00 PM,Northwestern,Duke,Wallace Wade Stadium
+3,Sat Sep 18,4:00 PM,Miss State,Memphis,Liberty Bowl Memorial Stadium
+3,Sat Sep 18,4:00 PM,GA Southern,Arkansas,Donald W. Reynolds Razorback Stadium
+3,Sat Sep 18,4:15 PM,Arkansas St,Washington,Alaska Airlines Field at Husky Stadium
+3,Sat Sep 18,5:00 PM,Murray St,Bowling Grn,Doyt L. Perry Stadium
+3,Sat Sep 18,6:00 PM,Old Dominion,Liberty,Williams Stadium
+3,Sat Sep 18,6:00 PM,Fordham,Fla Atlantic,FAU Stadium
+3,Sat Sep 18,6:00 PM,Middle Tenn,TX-San Ant,Alamodome
+3,Sat Sep 18,7:00 PM,Utah,San Diego St,Dignity Health Sports Park
+3,Sat Sep 18,7:00 PM,Incar Word,Texas State,Bobcat Stadium
+3,Sat Sep 18,7:00 PM,Florida A&M,S Florida,Raymond James Stadium
+3,Sat Sep 18,7:00 PM,Grambling St,Houston,TDECU Stadium
+3,Sat Sep 18,7:00 PM,Troy,S Mississippi,M.M. Roberts Stadium
+3,Sat Sep 18,7:00 PM,Florida Intl,Texas Tech,Jones AT&T Stadium
+3,Sat Sep 18,7:00 PM,Charlotte,Georgia State,Center Parc Credit Union Stadium
+3,Sat Sep 18,7:00 PM,S Carolina,Georgia,Sanford Stadium
+3,Sat Sep 18,7:30 PM,Utah State,Air Force,Falcon Stadium
+3,Sat Sep 18,7:30 PM,Stony Brook,Oregon,Autzen Stadium
+3,Sat Sep 18,7:30 PM,Virginia,N Carolina,Kenan Memorial Stadium
+3,Sat Sep 18,7:30 PM,Furman,NC State,Carter-Finley Stadium
+3,Sat Sep 18,7:30 PM,Central Mich,LSU,Tiger Stadium
+3,Sat Sep 18,7:30 PM,Auburn,Penn State,Beaver Stadium
+3,Sat Sep 18,8:00 PM,Alcorn State,S Alabama,Hancock Whitney Stadium
+3,Sat Sep 18,8:00 PM,Jackson State,LA Monroe,Malone Stadium
+3,Sat Sep 18,8:00 PM,Rice,Texas,Darrell K Royal-Texas Memorial Stadium
+3,Sat Sep 18,8:00 PM,Stanford,Vanderbilt,Vanderbilt Stadium
+3,Sat Sep 18,8:00 PM,Tulane,Mississippi,Vaught-Hemingway Stadium
+3,Sat Sep 18,9:00 PM,Oklahoma St,Boise State,Albertsons Stadium
+3,Sat Sep 18,10:00 PM,N Arizona,Arizona,Arizona Stadium
+3,Sat Sep 18,10:15 PM,Arizona St,BYU,LaVell Edwards Stadium
+3,Sat Sep 18,10:30 PM,Iowa State,UNLV,Allegiant Stadium
+3,Sat Sep 18,10:45 PM,Fresno St,UCLA,Rose Bowl
+4,Sun Sep 19,12:30 AM,San Jose St,Hawaii,Clarence T.C. Ching Athletics Complex
+4,Thu Sep 23,7:30 PM,Marshall,App State,Kidd Brewer Stadium
+4,Fri Sep 24,6:30 PM,Middle Tenn,Charlotte,Jerry Richardson Stadium
+4,Fri Sep 24,7:00 PM,Wake Forest,Virginia,Scott Stadium
+4,Fri Sep 24,8:00 PM,Liberty,Syracuse,Carrier Dome
+4,Sat Sep 25,12:00 PM,Notre Dame,Wisconsin,Soldier Field
+4,Sat Sep 25,12:00 PM,Towson,San Diego St,Dignity Health Sports Park
+4,Sat Sep 25,12:00 PM,Boise State,Utah State,Merlin Olsen Field at Maverik Stadium
+4,Sat Sep 25,12:00 PM,Miami (OH),Army,Michie Stadium
+4,Sat Sep 25,12:00 PM,Wagner,Temple,Lincoln Financial Field
+4,Sat Sep 25,12:00 PM,Bowling Grn,Minnesota,TCF Bank Stadium
+4,Sat Sep 25,1:00 PM,U Mass,Coastal Car,Brooks Stadium
+4,Sat Sep 25,1:00 PM,Villanova,Penn State,Beaver Stadium
+4,Sat Sep 25,1:00 PM,Akron,Ohio State,Ohio Stadium
+4,Sat Sep 25,1:00 PM,Ohio,Northwestern,Ryan Field
+4,Sat Sep 25,1:00 PM,Nebraska,Michigan St,Spartan Stadium
+4,Sat Sep 25,1:00 PM,Rutgers,Michigan,Michigan Stadium
+4,Sat Sep 25,1:00 PM,Kent State,Maryland,Capital One Field at Maryland Stadium
+4,Sat Sep 25,1:00 PM,Colorado St,Iowa,Kinnick Stadium
+4,Sat Sep 25,1:00 PM,Illinois,Purdue,Ross-Ade Stadium
+4,Sat Sep 25,1:00 PM,Richmond,VA Tech,Lane Stadium
+4,Sat Sep 25,1:00 PM,N Hampshire,Pittsburgh,Heinz Field
+4,Sat Sep 25,1:00 PM,Iowa State,Baylor,McLane Stadium
+4,Sat Sep 25,1:00 PM,W Virginia,Oklahoma,Gaylord Family-Oklahoma Memorial Stadium
+4,Sat Sep 25,1:00 PM,Kansas St,Oklahoma St,Boone Pickens Stadium
+4,Sat Sep 25,1:00 PM,Troy,LA Monroe,Malone Stadium
+4,Sat Sep 25,1:00 PM,LA Lafayette,GA Southern,Allen E. Paulson Stadium
+4,Sat Sep 25,1:00 PM,Texas State,E Michigan,Rynearson Stadium
+4,Sat Sep 25,1:00 PM,Maine,N Illinois,Huskie Stadium
+4,Sat Sep 25,1:00 PM,Toledo,Ball State,Scheumann Stadium
+4,Sat Sep 25,1:00 PM,San Jose St,W Michigan,Waldo Stadium
+4,Sat Sep 25,1:00 PM,Arkansas St,Tulsa,Skelly Field at H.A. Chapman Stadium
+4,Sat Sep 25,1:00 PM,S Florida,BYU,LaVell Edwards Stadium
+4,Sat Sep 25,1:00 PM,Navy,Houston,TDECU Stadium
+4,Sat Sep 25,1:00 PM,Texas Tech,Texas,Darrell K Royal-Texas Memorial Stadium
+4,Sat Sep 25,1:00 PM,S Methodist,TX Christian,Amon G. Carter Stadium
+4,Sat Sep 25,1:00 PM,Clemson,NC State,Carter-Finley Stadium
+4,Sat Sep 25,1:00 PM,Central Connecticut State,Miami (FL),Hard Rock Stadium
+4,Sat Sep 25,1:00 PM,N Carolina,GA Tech,Mercedes-Benz Stadium
+4,Sat Sep 25,1:00 PM,Tennessee,Florida,Ben Hill Griffin Stadium
+4,Sat Sep 25,1:00 PM,Georgia State,Auburn,Jordan-Hare Stadium
+4,Sat Sep 25,1:00 PM,Texas A&M,Arkansas,AT&T Stadium
+4,Sat Sep 25,1:00 PM,S Mississippi,Alabama,Bryant-Denny Stadium
+4,Sat Sep 25,1:00 PM,Hawaii,N Mex State,Aggie Memorial Stadium
+4,Sat Sep 25,1:00 PM,Colorado,Arizona St,Sun Devil Stadium
+4,Sat Sep 25,1:00 PM,Wash State,Utah,Rice-Eccles Stadium
+4,Sat Sep 25,1:00 PM,Oregon St,USC,United Airlines Field at Los Angeles Memorial Coliseum
+4,Sat Sep 25,1:00 PM,Arizona,Oregon,Autzen Stadium
+4,Sat Sep 25,1:00 PM,UCLA,Stanford,Stanford Stadium
+4,Sat Sep 25,1:00 PM,California,Washington,Alaska Airlines Field at Husky Stadium
+4,Sat Sep 25,1:00 PM,LSU,Miss State,Davis Wade Stadium at Scott Field
+4,Sat Sep 25,1:00 PM,Missouri,Boston Col,Alumni Stadium
+4,Sat Sep 25,1:00 PM,Kentucky,S Carolina,Williams-Brice Stadium
+4,Sat Sep 25,1:00 PM,Louisville,Florida St,Doak Campbell Stadium
+4,Sat Sep 25,1:00 PM,Kansas,Duke,Wallace Wade Stadium
+4,Sat Sep 25,1:00 PM,TX-San Ant,Memphis,Liberty Bowl Memorial Stadium
+4,Sat Sep 25,1:00 PM,New Mexico,TX El Paso,Sun Bowl
+4,Sat Sep 25,1:00 PM,UAB,Tulane,Yulman Stadium
+4,Sat Sep 25,1:00 PM,Texas Southern,Rice,Rice Stadium
+4,Sat Sep 25,1:00 PM,Buffalo,Old Dominion,Kornblau Field at S.B. Ballard Stadium
+4,Sat Sep 25,1:00 PM,Fla Atlantic,Air Force,Falcon Stadium
+4,Sat Sep 25,1:00 PM,Florida Intl,Central Mich,Kelly/Shorts Stadium
+4,Sat Sep 25,1:00 PM,North Texas,LA Tech,Joe Aillet Stadium
+4,Sat Sep 25,1:00 PM,Georgia,Vanderbilt,Vanderbilt Stadium
+4,Sat Sep 25,3:30 PM,Wyoming,Connecticut,Rentschler Field at Pratt & Whitney Stadium
+4,Sat Sep 25,6:00 PM,Charl South,E Carolina,Dowdy-Ficklen Stadium
+4,Sat Sep 25,8:00 PM,Indiana,W Kentucky,Houchens Industries-L.T. Smith Stadium
+4,Sat Sep 25,10:00 PM,UNLV,Fresno St,Bulldog Stadium
+5,Thu Sep 30,7:30 PM,Virginia,Miami (FL),Hard Rock Stadium
+5,Fri Oct 1,7:30 PM,Houston,Tulsa,Skelly Field at H.A. Chapman Stadium
+5,Fri Oct 1,8:00 PM,Iowa,Maryland,Capital One Field at Maryland Stadium
+5,Fri Oct 1,9:00 PM,BYU,Utah State,Merlin Olsen Field at Maverik Stadium
+5,Sat Oct 2,1:00 PM,Tulane,E Carolina,Dowdy-Ficklen Stadium
+5,Sat Oct 2,1:00 PM,Texas Tech,W Virginia,Mountaineer Field at Milan Puskar Stadium
+5,Sat Oct 2,1:00 PM,Texas,TX Christian,Amon G. Carter Stadium
+5,Sat Oct 2,1:00 PM,Baylor,Oklahoma St,Boone Pickens Stadium
+5,Sat Oct 2,1:00 PM,Oklahoma,Kansas St,Bill Snyder Family Football Stadium
+5,Sat Oct 2,1:00 PM,Kansas,Iowa State,Jack Trice Stadium
+5,Sat Oct 2,1:00 PM,Toledo,U Mass,Warren McGuirk Alumni Stadium
+5,Sat Oct 2,1:00 PM,Ohio State,Rutgers,SHI Stadium
+5,Sat Oct 2,1:00 PM,Northwestern,Nebraska,Memorial Stadium
+5,Sat Oct 2,1:00 PM,Minnesota,Purdue,Ross-Ade Stadium
+5,Sat Oct 2,1:00 PM,Michigan,Wisconsin,Camp Randall Stadium
+5,Sat Oct 2,1:00 PM,Memphis,Temple,Lincoln Financial Field
+5,Sat Oct 2,1:00 PM,S Florida,S Methodist,Gerald J. Ford Stadium
+5,Sat Oct 2,1:00 PM,Central Mich,Miami (OH),Fred C. Yager Stadium
+5,Sat Oct 2,1:00 PM,Oregon,Stanford,Stanford Stadium
+5,Sat Oct 2,1:00 PM,Wash State,California,California Memorial Stadium
+5,Sat Oct 2,1:00 PM,LA Lafayette,S Alabama,Hancock Whitney Stadium
+5,Sat Oct 2,1:00 PM,LA Monroe,Coastal Car,Brooks Stadium
+5,Sat Oct 2,1:00 PM,Arkansas St,GA Southern,Allen E. Paulson Stadium
+5,Sat Oct 2,1:00 PM,App State,Georgia State,Center Parc Credit Union Stadium
+5,Sat Oct 2,1:00 PM,Bowling Grn,Kent State,Dix Stadium
+5,Sat Oct 2,1:00 PM,W Michigan,Buffalo,UB Stadium
+5,Sat Oct 2,1:00 PM,Ohio,Akron,InfoCision Stadium-Summa Field
+5,Sat Oct 2,1:00 PM,Army,Ball State,Scheumann Stadium
+5,Sat Oct 2,1:00 PM,E Michigan,N Illinois,Huskie Stadium
+5,Sat Oct 2,1:00 PM,Indiana,Penn State,Beaver Stadium
+5,Sat Oct 2,1:00 PM,Louisville,Wake Forest,Truist Field
+5,Sat Oct 2,1:00 PM,Duke,N Carolina,Kenan Memorial Stadium
+5,Sat Oct 2,1:00 PM,Tennessee,Missouri,Faurot Field at Memorial Stadium
+5,Sat Oct 2,1:00 PM,Auburn,LSU,Tiger Stadium
+5,Sat Oct 2,1:00 PM,Florida,Kentucky,Kroger Field
+5,Sat Oct 2,1:00 PM,Arkansas,Georgia,Sanford Stadium
+5,Sat Oct 2,1:00 PM,Mississippi,Alabama,Bryant-Denny Stadium
+5,Sat Oct 2,1:00 PM,N Mex State,San Jose St,CEFCU Stadium
+5,Sat Oct 2,1:00 PM,Nevada,Boise State,Albertsons Stadium
+5,Sat Oct 2,1:00 PM,Air Force,New Mexico,Dreamstyle Stadium
+5,Sat Oct 2,1:00 PM,USC,Colorado,Folsom Field
+5,Sat Oct 2,1:00 PM,Arizona St,UCLA,Rose Bowl
+5,Sat Oct 2,1:00 PM,Washington,Oregon St,Reser Stadium
+5,Sat Oct 2,1:00 PM,Troy,S Carolina,Williams-Brice Stadium
+5,Sat Oct 2,1:00 PM,Miss State,Texas A&M,Kyle Field
+5,Sat Oct 2,1:00 PM,Connecticut,Vanderbilt,Vanderbilt Stadium
+5,Sat Oct 2,1:00 PM,Pittsburgh,GA Tech,Bobby Dodd Stadium
+5,Sat Oct 2,1:00 PM,Syracuse,Florida St,Doak Campbell Stadium
+5,Sat Oct 2,1:00 PM,Boston Col,Clemson,Memorial Stadium
+5,Sat Oct 2,1:00 PM,W Kentucky,Michigan St,Spartan Stadium
+5,Sat Oct 2,1:00 PM,UNLV,TX-San Ant,Alamodome
+5,Sat Oct 2,1:00 PM,LA Tech,NC State,Carter-Finley Stadium
+5,Sat Oct 2,1:00 PM,Charlotte,Illinois,Memorial Stadium
+5,Sat Oct 2,1:00 PM,S Mississippi,Rice,Rice Stadium
+5,Sat Oct 2,1:00 PM,Old Dominion,TX El Paso,Sun Bowl
+5,Sat Oct 2,1:00 PM,Marshall,Middle Tenn,"Johnny ""Red"" Floyd Stadium"
+5,Sat Oct 2,1:00 PM,Florida Intl,Fla Atlantic,FAU Stadium
+5,Sat Oct 2,2:30 PM,Cincinnati,Notre Dame,Notre Dame Stadium
+5,Sat Oct 2,3:30 PM,Central FL,Navy,Navy-Marine Corps Memorial Stadium
+5,Sat Oct 2,7:00 PM,Liberty,UAB,Protective Stadium
+5,Sat Oct 2,11:00 PM,Fresno St,Hawaii,Clarence T.C. Ching Athletics Complex
+6,Thu Oct 7,7:30 PM,Houston,Tulane,Yulman Stadium
+6,Thu Oct 7,7:30 PM,Coastal Car,Arkansas St,Centennial Bank Stadium
+6,Fri Oct 8,7:00 PM,Temple,Cincinnati,Nippert Stadium
+6,Fri Oct 8,8:00 PM,Charlotte,Florida Intl,Riccardo Silva Stadium
+6,Fri Oct 8,10:30 PM,Stanford,Arizona St,Sun Devil Stadium
+6,Sat Oct 9,12:00 PM,New Mexico,San Diego St,Dignity Health Sports Park
+6,Sat Oct 9,12:00 PM,N Illinois,Toledo,Glass Bowl
+6,Sat Oct 9,1:00 PM,Buffalo,Kent State,Dix Stadium
+6,Sat Oct 9,1:00 PM,Ball State,W Michigan,Waldo Stadium
+6,Sat Oct 9,1:00 PM,Miami (OH),E Michigan,Rynearson Stadium
+6,Sat Oct 9,1:00 PM,Memphis,Tulsa,Skelly Field at H.A. Chapman Stadium
+6,Sat Oct 9,1:00 PM,E Carolina,Central FL,Bounce House
+6,Sat Oct 9,1:00 PM,TX Christian,Texas Tech,Jones AT&T Stadium
+6,Sat Oct 9,1:00 PM,W Virginia,Baylor,McLane Stadium
+6,Sat Oct 9,1:00 PM,Connecticut,U Mass,Warren McGuirk Alumni Stadium
+6,Sat Oct 9,1:00 PM,Akron,Bowling Grn,Doyt L. Perry Stadium
+6,Sat Oct 9,1:00 PM,Central Mich,Ohio,Peden Stadium
+6,Sat Oct 9,1:00 PM,GA Southern,Troy,Veterans Memorial Stadium
+6,Sat Oct 9,1:00 PM,Oklahoma,Texas,Cotton Bowl Stadium
+6,Sat Oct 9,1:00 PM,San Jose St,Colorado St,Sonny Lubrick Field at Canvas Stadium
+6,Sat Oct 9,1:00 PM,Boise State,BYU,LaVell Edwards Stadium
+6,Sat Oct 9,1:00 PM,Utah,USC,United Airlines Field at Los Angeles Memorial Coliseum
+6,Sat Oct 9,1:00 PM,UCLA,Arizona,Arizona Stadium
+6,Sat Oct 9,1:00 PM,Oregon St,Wash State,Gesa Field
+6,Sat Oct 9,1:00 PM,S Alabama,Texas State,Bobcat Stadium
+6,Sat Oct 9,1:00 PM,Georgia State,LA Monroe,Malone Stadium
+6,Sat Oct 9,1:00 PM,Michigan St,Rutgers,SHI Stadium
+6,Sat Oct 9,1:00 PM,Michigan,Nebraska,Memorial Stadium
+6,Sat Oct 9,1:00 PM,Maryland,Ohio State,Ohio Stadium
+6,Sat Oct 9,1:00 PM,Fla Atlantic,UAB,Protective Stadium
+6,Sat Oct 9,1:00 PM,Alabama,Texas A&M,Kyle Field
+6,Sat Oct 9,1:00 PM,S Carolina,Tennessee,Neyland Stadium
+6,Sat Oct 9,1:00 PM,North Texas,Missouri,Faurot Field at Memorial Stadium
+6,Sat Oct 9,1:00 PM,Arkansas,Mississippi,Vaught-Hemingway Stadium
+6,Sat Oct 9,1:00 PM,LSU,Kentucky,Kroger Field
+6,Sat Oct 9,1:00 PM,Vanderbilt,Florida,Ben Hill Griffin Stadium
+6,Sat Oct 9,1:00 PM,Georgia,Auburn,Jordan-Hare Stadium
+6,Sat Oct 9,1:00 PM,Old Dominion,Marshall,Joan C. Edwards Stadium
+6,Sat Oct 9,1:00 PM,TX El Paso,S Mississippi,M.M. Roberts Stadium
+6,Sat Oct 9,1:00 PM,TX-San Ant,W Kentucky,Houchens Industries-L.T. Smith Stadium
+6,Sat Oct 9,1:00 PM,Penn State,Iowa,Kinnick Stadium
+6,Sat Oct 9,1:00 PM,Wisconsin,Illinois,Memorial Stadium
+6,Sat Oct 9,1:00 PM,Notre Dame,VA Tech,Lane Stadium
+6,Sat Oct 9,1:00 PM,Wake Forest,Syracuse,Carrier Dome
+6,Sat Oct 9,1:00 PM,Florida St,N Carolina,Kenan Memorial Stadium
+6,Sat Oct 9,1:00 PM,Virginia,Louisville,Cardinal Stadium
+6,Sat Oct 9,1:00 PM,GA Tech,Duke,Wallace Wade Stadium
+6,Sat Oct 9,1:00 PM,Middle Tenn,Liberty,Williams Stadium
+6,Sat Oct 9,3:30 PM,S Methodist,Navy,Navy-Marine Corps Memorial Stadium
+6,Sat Oct 9,7:00 PM,Wyoming,Air Force,Falcon Stadium
+6,Sat Oct 9,10:30 PM,N Mex State,Nevada,Mackay Stadium
+7,Tue Oct 12,7:30 PM,App State,LA Lafayette,Cajun Field
+7,Thu Oct 14,7:30 PM,Navy,Memphis,Liberty Bowl Memorial Stadium
+7,Thu Oct 14,7:30 PM,GA Southern,S Alabama,Hancock Whitney Stadium
+7,Fri Oct 15,7:00 PM,Marshall,North Texas,Apogee Stadium
+7,Fri Oct 15,7:00 PM,Clemson,Syracuse,Carrier Dome
+7,Fri Oct 15,10:30 PM,San Diego St,San Jose St,CEFCU Stadium
+7,Fri Oct 15,10:30 PM,California,Oregon,Autzen Stadium
+7,Sat Oct 16,12:00 PM,Yale,Connecticut,Rentschler Field at Pratt & Whitney Stadium
+7,Sat Oct 16,1:00 PM,Toledo,Central Mich,Kelly/Shorts Stadium
+7,Sat Oct 16,1:00 PM,Ball State,E Michigan,Rynearson Stadium
+7,Sat Oct 16,1:00 PM,Akron,Miami (OH),Fred C. Yager Stadium
+7,Sat Oct 16,1:00 PM,Tulsa,S Florida,Raymond James Stadium
+7,Sat Oct 16,1:00 PM,Central FL,Cincinnati,Nippert Stadium
+7,Sat Oct 16,1:00 PM,Oklahoma St,Texas,Darrell K Royal-Texas Memorial Stadium
+7,Sat Oct 16,1:00 PM,TX Christian,Oklahoma,Gaylord Family-Oklahoma Memorial Stadium
+7,Sat Oct 16,1:00 PM,Iowa State,Kansas St,Bill Snyder Family Football Stadium
+7,Sat Oct 16,1:00 PM,Texas Tech,Kansas,David Booth Kansas Memorial Stadium
+7,Sat Oct 16,1:00 PM,Bowling Grn,N Illinois,Huskie Stadium
+7,Sat Oct 16,1:00 PM,Ohio,Buffalo,UB Stadium
+7,Sat Oct 16,1:00 PM,Fresno St,Wyoming,Jonah Field at War Memorial Stadium
+7,Sat Oct 16,1:00 PM,Colorado St,New Mexico,Dreamstyle Stadium
+7,Sat Oct 16,1:00 PM,Air Force,Boise State,Albertsons Stadium
+7,Sat Oct 16,1:00 PM,Arizona St,Utah,Rice-Eccles Stadium
+7,Sat Oct 16,1:00 PM,Arizona,Colorado,Folsom Field
+7,Sat Oct 16,1:00 PM,UCLA,Washington,Alaska Airlines Field at Husky Stadium
+7,Sat Oct 16,1:00 PM,Stanford,Wash State,Gesa Field
+7,Sat Oct 16,1:00 PM,Troy,Texas State,Bobcat Stadium
+7,Sat Oct 16,1:00 PM,Kent State,W Michigan,Waldo Stadium
+7,Sat Oct 16,1:00 PM,BYU,Baylor,McLane Stadium
+7,Sat Oct 16,1:00 PM,Liberty,LA Monroe,Malone Stadium
+7,Sat Oct 16,1:00 PM,W Kentucky,Old Dominion,Kornblau Field at S.B. Ballard Stadium
+7,Sat Oct 16,1:00 PM,LA Tech,TX El Paso,Sun Bowl
+7,Sat Oct 16,1:00 PM,Mississippi,Tennessee,Neyland Stadium
+7,Sat Oct 16,1:00 PM,Vanderbilt,S Carolina,Williams-Brice Stadium
+7,Sat Oct 16,1:00 PM,Texas A&M,Missouri,Faurot Field at Memorial Stadium
+7,Sat Oct 16,1:00 PM,Alabama,Miss State,Davis Wade Stadium at Scott Field
+7,Sat Oct 16,1:00 PM,Florida,LSU,Tiger Stadium
+7,Sat Oct 16,1:00 PM,Kentucky,Georgia,Sanford Stadium
+7,Sat Oct 16,1:00 PM,Auburn,Arkansas,Donald W. Reynolds Razorback Stadium
+7,Sat Oct 16,1:00 PM,Rice,TX-San Ant,Alamodome
+7,Sat Oct 16,1:00 PM,UAB,S Mississippi,M.M. Roberts Stadium
+7,Sat Oct 16,1:00 PM,Army,Wisconsin,Camp Randall Stadium
+7,Sat Oct 16,1:00 PM,Rutgers,Northwestern,Ryan Field
+7,Sat Oct 16,1:00 PM,Nebraska,Minnesota,TCF Bank Stadium
+7,Sat Oct 16,1:00 PM,Purdue,Iowa,Kinnick Stadium
+7,Sat Oct 16,1:00 PM,Michigan St,Indiana,Memorial Stadium
+7,Sat Oct 16,1:00 PM,Pittsburgh,VA Tech,Lane Stadium
+7,Sat Oct 16,1:00 PM,Duke,Virginia,Scott Stadium
+7,Sat Oct 16,1:00 PM,Miami (FL),N Carolina,Kenan Memorial Stadium
+7,Sat Oct 16,1:00 PM,NC State,Boston Col,Alumni Stadium
+7,Sat Oct 16,7:00 PM,Utah State,UNLV,Allegiant Stadium
+7,Sat Oct 16,10:30 PM,Hawaii,Nevada,Mackay Stadium
+8,Wed Oct 20,7:30 PM,Coastal Car,App State,Kidd Brewer Stadium
+8,Thu Oct 21,7:30 PM,Fla Atlantic,Charlotte,Jerry Richardson Stadium
+8,Thu Oct 21,7:30 PM,Tulane,S Methodist,Gerald J. Ford Stadium
+8,Thu Oct 21,7:30 PM,LA Lafayette,Arkansas St,Centennial Bank Stadium
+8,Fri Oct 22,7:00 PM,Memphis,Central FL,Bounce House
+8,Fri Oct 22,9:30 PM,Colorado St,Utah State,Merlin Olsen Field at Maverik Stadium
+8,Fri Oct 22,10:30 PM,Washington,Arizona,Arizona Stadium
+8,Sat Oct 23,12:00 PM,N Mex State,Hawaii,Clarence T.C. Ching Athletics Complex
+8,Sat Oct 23,12:00 PM,Cincinnati,Navy,Navy-Marine Corps Memorial Stadium
+8,Sat Oct 23,12:00 PM,Wake Forest,Army,Michie Stadium
+8,Sat Oct 23,1:00 PM,Buffalo,Akron,InfoCision Stadium-Summa Field
+8,Sat Oct 23,1:00 PM,E Michigan,Bowling Grn,Doyt L. Perry Stadium
+8,Sat Oct 23,1:00 PM,W Michigan,Toledo,Glass Bowl
+8,Sat Oct 23,1:00 PM,Miami (OH),Ball State,Scheumann Stadium
+8,Sat Oct 23,1:00 PM,Temple,S Florida,Raymond James Stadium
+8,Sat Oct 23,1:00 PM,E Carolina,Houston,TDECU Stadium
+8,Sat Oct 23,1:00 PM,Kansas St,Texas Tech,Jones AT&T Stadium
+8,Sat Oct 23,1:00 PM,W Virginia,TX Christian,Amon G. Carter Stadium
+8,Sat Oct 23,1:00 PM,Kent State,Ohio,Peden Stadium
+8,Sat Oct 23,1:00 PM,N Illinois,Central Mich,Kelly/Shorts Stadium
+8,Sat Oct 23,1:00 PM,Texas State,Georgia State,Center Parc Credit Union Stadium
+8,Sat Oct 23,1:00 PM,San Jose St,UNLV,Allegiant Stadium
+8,Sat Oct 23,1:00 PM,Nevada,Fresno St,Bulldog Stadium
+8,Sat Oct 23,1:00 PM,New Mexico,Wyoming,Jonah Field at War Memorial Stadium
+8,Sat Oct 23,1:00 PM,BYU,Wash State,Gesa Field
+8,Sat Oct 23,1:00 PM,Utah,Oregon St,Reser Stadium
+8,Sat Oct 23,1:00 PM,Oregon,UCLA,Rose Bowl
+8,Sat Oct 23,1:00 PM,Colorado,California,California Memorial Stadium
+8,Sat Oct 23,1:00 PM,S Alabama,LA Monroe,Malone Stadium
+8,Sat Oct 23,1:00 PM,Oklahoma,Kansas,David Booth Kansas Memorial Stadium
+8,Sat Oct 23,1:00 PM,Oklahoma St,Iowa State,Jack Trice Stadium
+8,Sat Oct 23,1:00 PM,Wisconsin,Purdue,Ross-Ade Stadium
+8,Sat Oct 23,1:00 PM,Rice,UAB,Protective Stadium
+8,Sat Oct 23,1:00 PM,TX-San Ant,LA Tech,Joe Aillet Stadium
+8,Sat Oct 23,1:00 PM,W Kentucky,Florida Intl,Riccardo Silva Stadium
+8,Sat Oct 23,1:00 PM,Miss State,Vanderbilt,Vanderbilt Stadium
+8,Sat Oct 23,1:00 PM,S Carolina,Texas A&M,Kyle Field
+8,Sat Oct 23,1:00 PM,LSU,Mississippi,Vaught-Hemingway Stadium
+8,Sat Oct 23,1:00 PM,Arkansas-Pine Bluff,Arkansas,Donald W. Reynolds Razorback Stadium
+8,Sat Oct 23,1:00 PM,Tennessee,Alabama,Bryant-Denny Stadium
+8,Sat Oct 23,1:00 PM,Liberty,North Texas,Apogee Stadium
+8,Sat Oct 23,1:00 PM,U Mass,Florida St,Doak Campbell Stadium
+8,Sat Oct 23,1:00 PM,Boston Col,Louisville,Cardinal Stadium
+8,Sat Oct 23,1:00 PM,Northwestern,Michigan,Michigan Stadium
+8,Sat Oct 23,1:00 PM,Maryland,Minnesota,TCF Bank Stadium
+8,Sat Oct 23,1:00 PM,Ohio State,Indiana,Memorial Stadium
+8,Sat Oct 23,1:00 PM,Illinois,Penn State,Beaver Stadium
+8,Sat Oct 23,1:00 PM,Syracuse,VA Tech,Lane Stadium
+8,Sat Oct 23,1:00 PM,GA Tech,Virginia,Scott Stadium
+8,Sat Oct 23,1:00 PM,Clemson,Pittsburgh,Heinz Field
+8,Sat Oct 23,1:00 PM,NC State,Miami (FL),Hard Rock Stadium
+8,Sat Oct 23,6:00 PM,Middle Tenn,Connecticut,Rentschler Field at Pratt & Whitney Stadium
+8,Sat Oct 23,7:00 PM,San Diego St,Air Force,Falcon Stadium
+8,Sat Oct 23,7:30 PM,USC,Notre Dame,Notre Dame Stadium
+9,Thu Oct 28,7:30 PM,S Florida,E Carolina,Dowdy-Ficklen Stadium
+9,Thu Oct 28,7:30 PM,Troy,Coastal Car,Brooks Stadium
+9,Fri Oct 29,7:30 PM,Navy,Tulsa,Skelly Field at H.A. Chapman Stadium
+9,Fri Oct 29,10:00 PM,UNLV,Nevada,Mackay Stadium
+9,Sat Oct 30,12:00 PM,Bowling Grn,Buffalo,UB Stadium
+9,Sat Oct 30,1:00 PM,LA Monroe,App State,Kidd Brewer Stadium
+9,Sat Oct 30,1:00 PM,S Methodist,Houston,TDECU Stadium
+9,Sat Oct 30,1:00 PM,Cincinnati,Tulane,Yulman Stadium
+9,Sat Oct 30,1:00 PM,Central FL,Temple,Lincoln Financial Field
+9,Sat Oct 30,1:00 PM,Iowa State,W Virginia,Mountaineer Field at Milan Puskar Stadium
+9,Sat Oct 30,1:00 PM,Kansas,Oklahoma St,Boone Pickens Stadium
+9,Sat Oct 30,1:00 PM,Texas Tech,Oklahoma,Gaylord Family-Oklahoma Memorial Stadium
+9,Sat Oct 30,1:00 PM,TX Christian,Kansas St,Bill Snyder Family Football Stadium
+9,Sat Oct 30,1:00 PM,Texas,Baylor,McLane Stadium
+9,Sat Oct 30,1:00 PM,Arkansas St,S Alabama,Hancock Whitney Stadium
+9,Sat Oct 30,1:00 PM,Georgia State,GA Southern,Allen E. Paulson Stadium
+9,Sat Oct 30,1:00 PM,Texas State,LA Lafayette,Cajun Field
+9,Sat Oct 30,1:00 PM,Wyoming,San Jose St,CEFCU Stadium
+9,Sat Oct 30,1:00 PM,Hawaii,Utah State,Merlin Olsen Field at Maverik Stadium
+9,Sat Oct 30,1:00 PM,Boise State,Colorado St,Sonny Lubrick Field at Canvas Stadium
+9,Sat Oct 30,1:00 PM,UCLA,Utah,Rice-Eccles Stadium
+9,Sat Oct 30,1:00 PM,Arizona,USC,United Airlines Field at Los Angeles Memorial Coliseum
+9,Sat Oct 30,1:00 PM,Wash State,Arizona St,Sun Devil Stadium
+9,Sat Oct 30,1:00 PM,Colorado,Oregon,Autzen Stadium
+9,Sat Oct 30,1:00 PM,Washington,Stanford,Stanford Stadium
+9,Sat Oct 30,1:00 PM,Oregon St,California,California Memorial Stadium
+9,Sat Oct 30,1:00 PM,U Mass,Liberty,Williams Stadium
+9,Sat Oct 30,1:00 PM,Penn State,Ohio State,Ohio Stadium
+9,Sat Oct 30,1:00 PM,Virginia,BYU,LaVell Edwards Stadium
+9,Sat Oct 30,1:00 PM,North Texas,Rice,Rice Stadium
+9,Sat Oct 30,1:00 PM,S Mississippi,Middle Tenn,"Johnny ""Red"" Floyd Stadium"
+9,Sat Oct 30,1:00 PM,TX El Paso,Fla Atlantic,FAU Stadium
+9,Sat Oct 30,1:00 PM,Florida Intl,Marshall,Joan C. Edwards Stadium
+9,Sat Oct 30,1:00 PM,Charlotte,W Kentucky,Houchens Industries-L.T. Smith Stadium
+9,Sat Oct 30,1:00 PM,Missouri,Vanderbilt,Vanderbilt Stadium
+9,Sat Oct 30,1:00 PM,Kentucky,Miss State,Davis Wade Stadium at Scott Field
+9,Sat Oct 30,1:00 PM,Mississippi,Auburn,Jordan-Hare Stadium
+9,Sat Oct 30,1:00 PM,Florida St,Clemson,Memorial Stadium
+9,Sat Oct 30,1:00 PM,VA Tech,GA Tech,Bobby Dodd Stadium
+9,Sat Oct 30,1:00 PM,Louisville,NC State,Carter-Finley Stadium
+9,Sat Oct 30,1:00 PM,Purdue,Nebraska,Memorial Stadium
+9,Sat Oct 30,1:00 PM,Minnesota,Northwestern,Ryan Field
+9,Sat Oct 30,1:00 PM,Michigan,Michigan St,Spartan Stadium
+9,Sat Oct 30,1:00 PM,Iowa,Wisconsin,Camp Randall Stadium
+9,Sat Oct 30,1:00 PM,Indiana,Maryland,Capital One Field at Maryland Stadium
+9,Sat Oct 30,1:00 PM,Rutgers,Illinois,Memorial Stadium
+9,Sat Oct 30,1:00 PM,Duke,Wake Forest,Truist Field
+9,Sat Oct 30,1:00 PM,Boston Col,Syracuse,Carrier Dome
+9,Sat Oct 30,1:00 PM,Miami (FL),Pittsburgh,Heinz Field
+9,Sat Oct 30,3:30 PM,LA Tech,Old Dominion,Kornblau Field at S.B. Ballard Stadium
+9,Sat Oct 30,3:30 PM,Georgia,Florida,TIAA Bank Field
+9,Sat Oct 30,7:30 PM,N Carolina,Notre Dame,Notre Dame Stadium
+9,Sat Oct 30,10:30 PM,Fresno St,San Diego St,Dignity Health Sports Park
+10,Tue Nov 2,1:00 PM,Miami (OH),Ohio,Peden Stadium
+10,Tue Nov 2,1:00 PM,Ball State,Akron,InfoCision Stadium-Summa Field
+10,Tue Nov 2,1:00 PM,E Michigan,Toledo,Glass Bowl
+10,Wed Nov 3,7:00 PM,Central Mich,W Michigan,Waldo Stadium
+10,Wed Nov 3,7:00 PM,N Illinois,Kent State,Dix Stadium
+10,Thu Nov 4,7:30 PM,Georgia State,LA Lafayette,Cajun Field
+10,Fri Nov 5,7:30 PM,VA Tech,Boston Col,Alumni Stadium
+10,Fri Nov 5,10:30 PM,Utah,Stanford,Stanford Stadium
+10,Sat Nov 6,12:00 PM,LA Tech,UAB,Protective Stadium
+10,Sat Nov 6,12:00 PM,San Diego St,Hawaii,Clarence T.C. Ching Athletics Complex
+10,Sat Nov 6,1:00 PM,Oklahoma St,W Virginia,Mountaineer Field at Milan Puskar Stadium
+10,Sat Nov 6,1:00 PM,Baylor,TX Christian,Amon G. Carter Stadium
+10,Sat Nov 6,1:00 PM,Kansas St,Kansas,David Booth Kansas Memorial Stadium
+10,Sat Nov 6,1:00 PM,Texas,Iowa State,Jack Trice Stadium
+10,Sat Nov 6,1:00 PM,Rhode Island,U Mass,Warren McGuirk Alumni Stadium
+10,Sat Nov 6,1:00 PM,Wisconsin,Rutgers,SHI Stadium
+10,Sat Nov 6,1:00 PM,Ohio State,Nebraska,Memorial Stadium
+10,Sat Nov 6,1:00 PM,Michigan St,Purdue,Ross-Ade Stadium
+10,Sat Nov 6,1:00 PM,Penn State,Maryland,Capital One Field at Maryland Stadium
+10,Sat Nov 6,1:00 PM,Iowa,Northwestern,Ryan Field
+10,Sat Nov 6,1:00 PM,Temple,E Carolina,Dowdy-Ficklen Stadium
+10,Sat Nov 6,1:00 PM,Tulane,Central FL,Bounce House
+10,Sat Nov 6,1:00 PM,Oregon St,Colorado,Folsom Field
+10,Sat Nov 6,1:00 PM,Oregon,Washington,Alaska Airlines Field at Husky Stadium
+10,Sat Nov 6,1:00 PM,California,Arizona,Arizona Stadium
+10,Sat Nov 6,1:00 PM,S Alabama,Troy,Veterans Memorial Stadium
+10,Sat Nov 6,1:00 PM,LA Monroe,Texas State,Bobcat Stadium
+10,Sat Nov 6,1:00 PM,Coastal Car,GA Southern,Allen E. Paulson Stadium
+10,Sat Nov 6,1:00 PM,App State,Arkansas St,Centennial Bank Stadium
+10,Sat Nov 6,1:00 PM,S Methodist,Memphis,Liberty Bowl Memorial Stadium
+10,Sat Nov 6,1:00 PM,Houston,S Florida,Raymond James Stadium
+10,Sat Nov 6,1:00 PM,Tulsa,Cincinnati,Nippert Stadium
+10,Sat Nov 6,1:00 PM,Indiana,Michigan,Michigan Stadium
+10,Sat Nov 6,1:00 PM,Illinois,Minnesota,TCF Bank Stadium
+10,Sat Nov 6,1:00 PM,Florida,S Carolina,Williams-Brice Stadium
+10,Sat Nov 6,1:00 PM,Liberty,Mississippi,Vaught-Hemingway Stadium
+10,Sat Nov 6,1:00 PM,Tennessee,Kentucky,Kroger Field
+10,Sat Nov 6,1:00 PM,Missouri,Georgia,Sanford Stadium
+10,Sat Nov 6,1:00 PM,Miss State,Arkansas,Donald W. Reynolds Razorback Stadium
+10,Sat Nov 6,1:00 PM,LSU,Alabama,Bryant-Denny Stadium
+10,Sat Nov 6,1:00 PM,San Jose St,Nevada,Mackay Stadium
+10,Sat Nov 6,1:00 PM,Utah State,N Mex State,Aggie Memorial Stadium
+10,Sat Nov 6,1:00 PM,UNLV,New Mexico,Dreamstyle Stadium
+10,Sat Nov 6,1:00 PM,USC,Arizona St,Sun Devil Stadium
+10,Sat Nov 6,1:00 PM,Auburn,Texas A&M,Kyle Field
+10,Sat Nov 6,1:00 PM,Rice,Charlotte,Jerry Richardson Stadium
+10,Sat Nov 6,1:00 PM,Wake Forest,N Carolina,Kenan Memorial Stadium
+10,Sat Nov 6,1:00 PM,GA Tech,Miami (FL),Hard Rock Stadium
+10,Sat Nov 6,1:00 PM,Clemson,Louisville,Cardinal Stadium
+10,Sat Nov 6,1:00 PM,NC State,Florida St,Doak Campbell Stadium
+10,Sat Nov 6,1:00 PM,Pittsburgh,Duke,Wallace Wade Stadium
+10,Sat Nov 6,1:00 PM,TX-San Ant,TX El Paso,Sun Bowl
+10,Sat Nov 6,1:00 PM,North Texas,S Mississippi,M.M. Roberts Stadium
+10,Sat Nov 6,1:00 PM,Middle Tenn,W Kentucky,Houchens Industries-L.T. Smith Stadium
+10,Sat Nov 6,1:00 PM,Marshall,Fla Atlantic,FAU Stadium
+10,Sat Nov 6,1:00 PM,Old Dominion,Florida Intl,Riccardo Silva Stadium
+10,Sat Nov 6,3:00 PM,Idaho State,BYU,LaVell Edwards Stadium
+10,Sat Nov 6,3:30 PM,Colorado St,Wyoming,Jonah Field at War Memorial Stadium
+10,Sat Nov 6,3:30 PM,Navy,Notre Dame,M&T Bank Stadium
+10,Sat Nov 6,7:00 PM,Boise State,Fresno St,Bulldog Stadium
+10,Sun Nov 7,12:30 AM,Army,Air Force,Globe Life Park
+11,Tue Nov 9,12:00 PM,Buffalo,Miami (OH),Fred C. Yager Stadium
+11,Tue Nov 9,12:00 PM,Ohio,E Michigan,Rynearson Stadium
+11,Tue Nov 9,12:00 PM,Akron,W Michigan,Waldo Stadium
+11,Wed Nov 10,12:00 PM,Toledo,Bowling Grn,Doyt L. Perry Stadium
+11,Wed Nov 10,12:00 PM,Kent State,Central Mich,Kelly/Shorts Stadium
+11,Wed Nov 10,12:00 PM,Ball State,N Illinois,Huskie Stadium
+11,Thu Nov 11,7:30 PM,N Carolina,Pittsburgh,Heinz Field
+11,Fri Nov 12,6:00 PM,Cincinnati,S Florida,Raymond James Stadium
+11,Fri Nov 12,9:00 PM,Wyoming,Boise State,Albertsons Stadium
+11,Sat Nov 13,12:00 PM,Purdue,Ohio State,Ohio Stadium
+11,Sat Nov 13,12:00 PM,Northwestern,Wisconsin,Camp Randall Stadium
+11,Sat Nov 13,12:00 PM,Michigan,Penn State,Beaver Stadium
+11,Sat Nov 13,12:00 PM,Maryland,Michigan St,Spartan Stadium
+11,Sat Nov 13,12:00 PM,Minnesota,Iowa,Kinnick Stadium
+11,Sat Nov 13,12:00 PM,Rutgers,Indiana,Memorial Stadium
+11,Sat Nov 13,12:00 PM,NC State,Wake Forest,Truist Field
+11,Sat Nov 13,12:00 PM,Duke,VA Tech,Lane Stadium
+11,Sat Nov 13,12:00 PM,Notre Dame,Virginia,Scott Stadium
+11,Sat Nov 13,12:00 PM,Syracuse,Louisville,Cardinal Stadium
+11,Sat Nov 13,12:00 PM,Boston Col,GA Tech,Bobby Dodd Stadium
+11,Sat Nov 13,12:00 PM,Maine,U Mass,Warren McGuirk Alumni Stadium
+11,Sat Nov 13,12:00 PM,Oklahoma,Baylor,McLane Stadium
+11,Sat Nov 13,12:00 PM,W Virginia,Kansas St,Bill Snyder Family Football Stadium
+11,Sat Nov 13,12:00 PM,GA Southern,Texas State,Bobcat Stadium
+11,Sat Nov 13,12:00 PM,Georgia State,Coastal Car,Brooks Stadium
+11,Sat Nov 13,12:00 PM,Arkansas St,LA Monroe,Malone Stadium
+11,Sat Nov 13,12:00 PM,S Alabama,App State,Kidd Brewer Stadium
+11,Sat Nov 13,12:00 PM,Tulsa,Tulane,Yulman Stadium
+11,Sat Nov 13,12:00 PM,Houston,Temple,Lincoln Financial Field
+11,Sat Nov 13,12:00 PM,E Carolina,Memphis,Liberty Bowl Memorial Stadium
+11,Sat Nov 13,12:00 PM,Central FL,S Methodist,Gerald J. Ford Stadium
+11,Sat Nov 13,12:00 PM,Iowa State,Texas Tech,Jones AT&T Stadium
+11,Sat Nov 13,12:00 PM,Kansas,Texas,Darrell K Royal-Texas Memorial Stadium
+11,Sat Nov 13,12:00 PM,TX Christian,Oklahoma St,Boone Pickens Stadium
+11,Sat Nov 13,12:00 PM,Miami (FL),Florida St,Doak Campbell Stadium
+11,Sat Nov 13,12:00 PM,Connecticut,Clemson,Memorial Stadium
+11,Sat Nov 13,12:00 PM,Bucknell,Army,Michie Stadium
+11,Sat Nov 13,12:00 PM,Hawaii,UNLV,Allegiant Stadium
+11,Sat Nov 13,12:00 PM,Utah State,San Jose St,CEFCU Stadium
+11,Sat Nov 13,12:00 PM,New Mexico,Fresno St,Bulldog Stadium
+11,Sat Nov 13,12:00 PM,Colorado,UCLA,Rose Bowl
+11,Sat Nov 13,12:00 PM,Arizona St,Washington,Alaska Airlines Field at Husky Stadium
+11,Sat Nov 13,12:00 PM,Utah,Arizona,Arizona Stadium
+11,Sat Nov 13,12:00 PM,Wash State,Oregon,Autzen Stadium
+11,Sat Nov 13,12:00 PM,Stanford,Oregon St,Reser Stadium
+11,Sat Nov 13,12:00 PM,USC,California,California Memorial Stadium
+11,Sat Nov 13,12:00 PM,LA Lafayette,Troy,Veterans Memorial Stadium
+11,Sat Nov 13,12:00 PM,N Mex State,Alabama,Bryant-Denny Stadium
+11,Sat Nov 13,12:00 PM,Miss State,Auburn,Jordan-Hare Stadium
+11,Sat Nov 13,12:00 PM,Samford,Florida,Ben Hill Griffin Stadium
+11,Sat Nov 13,12:00 PM,S Mississippi,TX-San Ant,Alamodome
+11,Sat Nov 13,12:00 PM,W Kentucky,Rice,Rice Stadium
+11,Sat Nov 13,12:00 PM,TX El Paso,North Texas,Apogee Stadium
+11,Sat Nov 13,12:00 PM,Fla Atlantic,Old Dominion,Kornblau Field at S.B. Ballard Stadium
+11,Sat Nov 13,12:00 PM,Florida Intl,Middle Tenn,"Johnny ""Red"" Floyd Stadium"
+11,Sat Nov 13,12:00 PM,Charlotte,LA Tech,Joe Aillet Stadium
+11,Sat Nov 13,12:00 PM,Kentucky,Vanderbilt,Vanderbilt Stadium
+11,Sat Nov 13,12:00 PM,Georgia,Tennessee,Neyland Stadium
+11,Sat Nov 13,12:00 PM,S Carolina,Missouri,Faurot Field at Memorial Stadium
+11,Sat Nov 13,12:00 PM,Texas A&M,Mississippi,Vaught-Hemingway Stadium
+11,Sat Nov 13,12:00 PM,Arkansas,LSU,Tiger Stadium
+11,Sat Nov 13,3:30 PM,UAB,Marshall,Joan C. Edwards Stadium
+11,Sat Nov 13,7:00 PM,Air Force,Colorado St,Sonny Lubrick Field at Canvas Stadium
+11,Sat Nov 13,10:30 PM,Nevada,San Diego St,Dignity Health Sports Park
+12,Tue Nov 16,12:00 PM,Bowling Grn,Miami (OH),Fred C. Yager Stadium
+12,Tue Nov 16,12:00 PM,W Michigan,E Michigan,Rynearson Stadium
+12,Tue Nov 16,12:00 PM,Toledo,Ohio,Peden Stadium
+12,Wed Nov 17,7:00 PM,N Illinois,Buffalo,UB Stadium
+12,Wed Nov 17,7:00 PM,Central Mich,Ball State,Scheumann Stadium
+12,Thu Nov 18,7:30 PM,Louisville,Duke,Wallace Wade Stadium
+12,Fri Nov 19,12:00 PM,Air Force,Nevada,Mackay Stadium
+12,Fri Nov 19,8:00 PM,S Mississippi,LA Tech,Joe Aillet Stadium
+12,Fri Nov 19,9:00 PM,Memphis,Houston,TDECU Stadium
+12,Fri Nov 19,9:00 PM,Arizona,Wash State,Gesa Field
+12,Sat Nov 20,12:00 PM,Rutgers,Penn State,Beaver Stadium
+12,Sat Nov 20,12:00 PM,Nebraska,Wisconsin,Camp Randall Stadium
+12,Sat Nov 20,12:00 PM,Michigan St,Ohio State,Ohio Stadium
+12,Sat Nov 20,12:00 PM,Michigan,Maryland,Capital One Field at Maryland Stadium
+12,Sat Nov 20,12:00 PM,Minnesota,Indiana,Memorial Stadium
+12,Sat Nov 20,12:00 PM,Illinois,Iowa,Kinnick Stadium
+12,Sat Nov 20,12:00 PM,Virginia,Pittsburgh,Heinz Field
+12,Sat Nov 20,12:00 PM,Wofford,N Carolina,Kenan Memorial Stadium
+12,Sat Nov 20,12:00 PM,Syracuse,NC State,Carter-Finley Stadium
+12,Sat Nov 20,12:00 PM,VA Tech,Miami (FL),Hard Rock Stadium
+12,Sat Nov 20,12:00 PM,Wake Forest,Clemson,Memorial Stadium
+12,Sat Nov 20,12:00 PM,Connecticut,Central FL,Bounce House
+12,Sat Nov 20,12:00 PM,LA Lafayette,Liberty,Williams Stadium
+12,Sat Nov 20,12:00 PM,Baylor,Kansas St,Bill Snyder Family Football Stadium
+12,Sat Nov 20,12:00 PM,Purdue,Northwestern,Wrigley Field
+12,Sat Nov 20,12:00 PM,Colorado St,Hawaii,Clarence T.C. Ching Athletics Complex
+12,Sat Nov 20,12:00 PM,App State,Troy,Veterans Memorial Stadium
+12,Sat Nov 20,12:00 PM,Kent State,Akron,InfoCision Stadium-Summa Field
+12,Sat Nov 20,12:00 PM,Temple,Tulsa,Skelly Field at H.A. Chapman Stadium
+12,Sat Nov 20,12:00 PM,S Florida,Tulane,Yulman Stadium
+12,Sat Nov 20,12:00 PM,S Methodist,Cincinnati,Nippert Stadium
+12,Sat Nov 20,12:00 PM,Texas,W Virginia,Mountaineer Field at Milan Puskar Stadium
+12,Sat Nov 20,12:00 PM,Oklahoma St,Texas Tech,Jones AT&T Stadium
+12,Sat Nov 20,12:00 PM,Kansas,TX Christian,Amon G. Carter Stadium
+12,Sat Nov 20,12:00 PM,Iowa State,Oklahoma,Gaylord Family-Oklahoma Memorial Stadium
+12,Sat Nov 20,12:00 PM,Florida St,Boston Col,Alumni Stadium
+12,Sat Nov 20,12:00 PM,UAB,TX-San Ant,Alamodome
+12,Sat Nov 20,12:00 PM,Arkansas,Alabama,Bryant-Denny Stadium
+12,Sat Nov 20,12:00 PM,U Mass,Army,Michie Stadium
+12,Sat Nov 20,12:00 PM,New Mexico,Boise State,Albertsons Stadium
+12,Sat Nov 20,12:00 PM,UCLA,USC,United Airlines Field at Los Angeles Memorial Coliseum
+12,Sat Nov 20,12:00 PM,Washington,Colorado,Folsom Field
+12,Sat Nov 20,12:00 PM,Arizona St,Oregon St,Reser Stadium
+12,Sat Nov 20,12:00 PM,Oregon,Utah,Rice-Eccles Stadium
+12,Sat Nov 20,12:00 PM,California,Stanford,Stanford Stadium
+12,Sat Nov 20,12:00 PM,BYU,GA Southern,Allen E. Paulson Stadium
+12,Sat Nov 20,12:00 PM,Texas State,Coastal Car,Brooks Stadium
+12,Sat Nov 20,12:00 PM,Arkansas St,Georgia State,Center Parc Credit Union Stadium
+12,Sat Nov 20,12:00 PM,Charl South,Georgia,Sanford Stadium
+12,Sat Nov 20,12:00 PM,N Mex State,Kentucky,Kroger Field
+12,Sat Nov 20,12:00 PM,LA Monroe,LSU,Tiger Stadium
+12,Sat Nov 20,12:00 PM,Rice,TX El Paso,Sun Bowl
+12,Sat Nov 20,12:00 PM,Old Dominion,Middle Tenn,"Johnny ""Red"" Floyd Stadium"
+12,Sat Nov 20,12:00 PM,Fla Atlantic,W Kentucky,Houchens Industries-L.T. Smith Stadium
+12,Sat Nov 20,12:00 PM,North Texas,Florida Intl,Riccardo Silva Stadium
+12,Sat Nov 20,12:00 PM,Marshall,Charlotte,Jerry Richardson Stadium
+12,Sat Nov 20,12:00 PM,Prairie View A&M,Texas A&M,Kyle Field
+12,Sat Nov 20,12:00 PM,S Alabama,Tennessee,Neyland Stadium
+12,Sat Nov 20,12:00 PM,Auburn,S Carolina,Williams-Brice Stadium
+12,Sat Nov 20,12:00 PM,Florida,Missouri,Faurot Field at Memorial Stadium
+12,Sat Nov 20,12:00 PM,TN State,Miss State,Davis Wade Stadium at Scott Field
+12,Sat Nov 20,12:00 PM,Vanderbilt,Mississippi,Vaught-Hemingway Stadium
+12,Sat Nov 20,2:30 PM,GA Tech,Notre Dame,Notre Dame Stadium
+12,Sat Nov 20,3:30 PM,E Carolina,Navy,Navy-Marine Corps Memorial Stadium
+12,Sat Nov 20,7:00 PM,Wyoming,Utah State,Merlin Olsen Field at Maverik Stadium
+12,Sat Nov 20,10:30 PM,San Diego St,UNLV,Allegiant Stadium
+13,Tue Nov 23,7:00 PM,Buffalo,Ball State,Scheumann Stadium
+13,Tue Nov 23,7:00 PM,W Michigan,N Illinois,Huskie Stadium
+13,Thu Nov 25,12:00 PM,Fresno St,San Jose St,CEFCU Stadium
+13,Thu Nov 25,7:30 PM,Mississippi,Miss State,Davis Wade Stadium at Scott Field
+13,Fri Nov 26,12:00 PM,Coastal Car,S Alabama,Hancock Whitney Stadium
+13,Fri Nov 26,12:00 PM,Wash State,Washington,Alaska Airlines Field at Husky Stadium
+13,Fri Nov 26,12:00 PM,Colorado,Utah,Rice-Eccles Stadium
+13,Fri Nov 26,12:00 PM,Kansas St,Texas,Darrell K Royal-Texas Memorial Stadium
+13,Fri Nov 26,12:00 PM,Boise State,San Diego St,Dignity Health Sports Park
+13,Fri Nov 26,12:00 PM,Ohio,Bowling Grn,Doyt L. Perry Stadium
+13,Fri Nov 26,12:00 PM,E Michigan,Central Mich,Kelly/Shorts Stadium
+13,Fri Nov 26,12:00 PM,Tulsa,S Methodist,Gerald J. Ford Stadium
+13,Fri Nov 26,12:00 PM,Tulane,Memphis,Liberty Bowl Memorial Stadium
+13,Fri Nov 26,12:00 PM,Cincinnati,E Carolina,Dowdy-Ficklen Stadium
+13,Fri Nov 26,12:00 PM,S Florida,Central FL,Bounce House
+13,Fri Nov 26,12:00 PM,TX Christian,Iowa State,Jack Trice Stadium
+13,Fri Nov 26,12:00 PM,N Carolina,NC State,Carter-Finley Stadium
+13,Fri Nov 26,1:00 PM,Utah State,New Mexico,Dreamstyle Stadium
+13,Fri Nov 26,1:30 PM,Iowa,Nebraska,Memorial Stadium
+13,Fri Nov 26,3:30 PM,Missouri,Arkansas,War Memorial Stadium
+13,Fri Nov 26,3:30 PM,UNLV,Air Force,Falcon Stadium
+13,Sat Nov 27,12:00 PM,Notre Dame,Stanford,Stanford Stadium
+13,Sat Nov 27,12:00 PM,VA Tech,Virginia,Scott Stadium
+13,Sat Nov 27,12:00 PM,Pittsburgh,Syracuse,Carrier Dome
+13,Sat Nov 27,12:00 PM,Miami (FL),Duke,Wallace Wade Stadium
+13,Sat Nov 27,12:00 PM,Wake Forest,Boston Col,Alumni Stadium
+13,Sat Nov 27,12:00 PM,TX El Paso,UAB,Protective Stadium
+13,Sat Nov 27,12:00 PM,TX-San Ant,North Texas,Apogee Stadium
+13,Sat Nov 27,12:00 PM,LA Tech,Rice,Rice Stadium
+13,Sat Nov 27,12:00 PM,Middle Tenn,Fla Atlantic,FAU Stadium
+13,Sat Nov 27,12:00 PM,Northwestern,Illinois,Memorial Stadium
+13,Sat Nov 27,12:00 PM,Indiana,Purdue,Ross-Ade Stadium
+13,Sat Nov 27,12:00 PM,Maryland,Rutgers,SHI Stadium
+13,Sat Nov 27,12:00 PM,Navy,Temple,Lincoln Financial Field
+13,Sat Nov 27,12:00 PM,Oklahoma,Oklahoma St,Boone Pickens Stadium
+13,Sat Nov 27,12:00 PM,W Virginia,Kansas,David Booth Kansas Memorial Stadium
+13,Sat Nov 27,12:00 PM,Texas Tech,Baylor,McLane Stadium
+13,Sat Nov 27,12:00 PM,U Mass,N Mex State,Aggie Memorial Stadium
+13,Sat Nov 27,12:00 PM,Army,Liberty,Williams Stadium
+13,Sat Nov 27,12:00 PM,Wisconsin,Minnesota,TCF Bank Stadium
+13,Sat Nov 27,12:00 PM,Penn State,Michigan St,Spartan Stadium
+13,Sat Nov 27,12:00 PM,Miami (OH),Kent State,Dix Stadium
+13,Sat Nov 27,12:00 PM,Florida Intl,S Mississippi,M.M. Roberts Stadium
+13,Sat Nov 27,12:00 PM,BYU,USC,United Airlines Field at Los Angeles Memorial Coliseum
+13,Sat Nov 27,12:00 PM,Arizona,Arizona St,Sun Devil Stadium
+13,Sat Nov 27,12:00 PM,Oregon St,Oregon,Autzen Stadium
+13,Sat Nov 27,12:00 PM,California,UCLA,Rose Bowl
+13,Sat Nov 27,12:00 PM,LA Monroe,LA Lafayette,Cajun Field
+13,Sat Nov 27,12:00 PM,Troy,Georgia State,Center Parc Credit Union Stadium
+13,Sat Nov 27,12:00 PM,Texas State,Arkansas St,Centennial Bank Stadium
+13,Sat Nov 27,12:00 PM,GA Southern,App State,Kidd Brewer Stadium
+13,Sat Nov 27,12:00 PM,Akron,Toledo,Glass Bowl
+13,Sat Nov 27,12:00 PM,Hawaii,Wyoming,Jonah Field at War Memorial Stadium
+13,Sat Nov 27,12:00 PM,Ohio State,Michigan,Michigan Stadium
+13,Sat Nov 27,12:00 PM,Charlotte,Old Dominion,Kornblau Field at S.B. Ballard Stadium
+13,Sat Nov 27,12:00 PM,Vanderbilt,Tennessee,Neyland Stadium
+13,Sat Nov 27,12:00 PM,Clemson,S Carolina,Williams-Brice Stadium
+13,Sat Nov 27,12:00 PM,Texas A&M,LSU,Tiger Stadium
+13,Sat Nov 27,12:00 PM,Kentucky,Louisville,Cardinal Stadium
+13,Sat Nov 27,12:00 PM,Georgia,GA Tech,Bobby Dodd Stadium
+13,Sat Nov 27,12:00 PM,Florida St,Florida,Ben Hill Griffin Stadium
+13,Sat Nov 27,12:00 PM,Alabama,Auburn,Jordan-Hare Stadium
+13,Sat Nov 27,12:00 PM,Houston,Connecticut,Rentschler Field at Pratt & Whitney Stadium
+13,Sat Nov 27,3:30 PM,W Kentucky,Marshall,Joan C. Edwards Stadium
+13,Sat Nov 27,9:00 PM,Nevada,Colorado St,Sonny Lubrick Field at Canvas Stadium
+14,Sat Dec 11,3:00 PM,Navy,Army,Michie Stadium
