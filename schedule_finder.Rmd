@@ -66,3 +66,15 @@ df_4<-merge(df_3,nfl_loc_df,by.x="nfl_stadium",by.y="nfl_stadium",all.x=TRUE)
 df_5<-merge(df_4,cfb_loc_df,by.x="cfb_location",by.y="cfb_stadium",all.x=TRUE)
 ```
 
+```{r}
+df_5$dist_meters<-NA
+
+for (i in 1:nrow(df_5)){
+  df_5[i,"dist_meters"]<-as.numeric(distm(df_5[i,c("nfl_long","nfl_lat")],df_5[i,c("cfb_long","cfb_lat")]))
+}
+
+df_5$dist_miles<-df_5$dist_meters/1609
+
+df_6<-df_5[order(df_5$dist_miles),]
+```
+
