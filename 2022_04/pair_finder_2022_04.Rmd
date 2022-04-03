@@ -1,0 +1,30 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+rm(list=ls())
+library(readr)
+```
+
+```{r}
+mlb_df<-data.frame(read_csv("2022_mlb_schedule.csv",col_names=FALSE))
+
+colnames(mlb_df)<-"Game Text"
+mlb_df$row_type<-ifelse(grepl("@",mlb_df$`Game Text`),"game","date")
+
+mlb_df$date<-NA
+spc_date<-NA
+for (i in 1:nrow(mlb_df)){
+  if(mlb_df[i,"row_type"]=="date"){
+    spc_date<-mlb_df[i,"Game Text"]
+  } else {
+      mlb_df[i,"date"]<-spc_date
+    }
+  
+}
+```
+
+
