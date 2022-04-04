@@ -8,6 +8,9 @@ output: html_notebook
 rm(list=ls())
 library(readr)
 library(stringr)
+library(tidyr)
+library(geosphere)
+library(lubridate)
 ```
 
 ```{r}
@@ -38,5 +41,51 @@ mlb_df$home_team<-substring(sub(".*@","",mlb_df$`Game Text`),2)
 # 
 # substr(mlb_df$date,mlb_date_indicies[,1],mlb_date_indicies[,2])
 ```
+
+```{r}
+mls_df<-data.frame(read_csv("spi_matches.csv"))
+mls_df<-mls_df[mls_df$date>Sys.Date() & mls_df$league=="Major League Soccer",c("date","team1","team2")]
+mls_df$mls_home_team<-mls_df$team1
+```
+
+```{r}
+mlb_latlong<-data.frame(read_csv("mlb_latlong.csv"))
+mls_latlong<-data.frame(read_csv("mls_latlong.csv"))
+
+mlb_loc_df<-merge(mlb_df,mlb_latlong,by.x="home_team",by.y="team")
+mls_loc_df<-merge(mls_df,mls_latlong,by.x="mls_home_team",by.y="team")
+
+colnames(mls_loc_df)[colnames(mls_loc_df)=="lat"]<-"mls_lat"
+colnames(mls_loc_df)[colnames(mls_loc_df)=="long"]<-"mls_long"
+colnames(mls_loc_df)[colnames(mls_loc_df)=="date"]<-"mls_date"
+
+```
+
+```{r}
+merge_df<-merge(mlb_loc_df,mls_loc_df,all=TRUE)
+
+merge_df$date_gap<-abs(merge_df$clean_date-merge_df$mls_date)
+
+merge_df_2<-merge_df[merge_df$date_gap<=2,]
+merge_df_2<-merge_df_2[merge_df_2$date_gap>0,]
+
+for (i in 1:nrow(merge_df_2)){
+  merge_df_2[i,"dist_meters"]<-as.numeric(distm(merge_df_2[i,c("mls_long","mls_lat")],merge_df_2[i,c("long","lat")]))
+}
+
+merge_df_2$dist_miles<-merge_df_2$dist_meters/1609.34
+
+merge_df_3<-merge_df_2[merge_df_2$dist_miles<100,]
+
+merge_df_3$mls_dow<-wday(merge_df_3$mls_date,label=TRUE)
+merge_df_3$mlb_dow<-wday(merge_df_3$clean_date,label=TRUE)
+
+merge_df_4<-merge_df_3[merge_df_3$mls_dow %in% c("Fri","Sat","Sun") & merge_df_3$mlb_dow %in% c("Fri","Sat","Sun"),]
+
+merge_df_5<-merge_df_4[!merge_df_4$mls_home_team %in% c("Chicago Fire","DC United","FC Dallas","Houston Dynamo", "San Jose Earthquakes", "Colorado Rapids"),]
+
+write.csv(merge_df_5,"2022_04_trip_option_V01.csv",row.names=FALSE)
+```
+
 
 
